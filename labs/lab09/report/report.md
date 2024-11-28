@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе 9"
 subtitle: "Понятие подпрограммы. Отладчик GDB."
-author: "Ахмед Кусей"
+author: "Окафор Чуквуемезуго Келвин"
 
 ## Generic otions
 lang: ru-RU
